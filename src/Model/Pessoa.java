@@ -10,5 +10,6 @@ package Model;
  * @author user
  */
 public class Pessoa {
+   // Palmeiras nao tem mundial 
     
 }
